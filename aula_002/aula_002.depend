@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655928900 source:/home/adelmo/estudo_project/intro_gcc/aula_002/main.c
+	<stdio.h>
+	<stdlib.h>
+
