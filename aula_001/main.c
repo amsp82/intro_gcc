@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-    Aula: 002
+    Aula: 001
     Tema: Como fazer comentários em meu código C
     Data: 23.06.2022
 */
