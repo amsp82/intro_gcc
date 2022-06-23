@@ -16,4 +16,4 @@ Youtube
 
 ## Link de cada aula:
 
-- [Como fazer comentários em meu código C](https://www.youtube.com/watch?v=yrWIlIVZHB0&list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA&index=2).
+- [002 - Como fazer comentários em meu código C](https://www.youtube.com/watch?v=yrWIlIVZHB0&list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA&index=2).
